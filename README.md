@@ -1,6 +1,6 @@
 # iit-study
-iit（伊利诺伊理工）学习总结
-
+iit（伊利诺伊理工学院）学习总结
+学校计算机硕士开设课程：https://catalog.iit.edu/graduate/colleges/computing/computer-science/master-computer-science/#programrequirementstext
 
 ## CS425 
 
